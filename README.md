@@ -1,3 +1,2 @@
 # AndroidStudio-Reminder
-It is partial completed. The app does not notify according to date and time set. It notify as soon as the event is added.
-Pending create a thread to check which event occurs and notify it.
+Sometimes Background service which calculates the remaining time with the current system time is stopped.
