@@ -1,2 +1,2 @@
 # AndroidStudio-Reminder
-Sometimes Background service which calculates the remaining time with the current system time is stopped.
+Background service will run as long as the notification is displayed.
